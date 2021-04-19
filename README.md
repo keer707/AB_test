@@ -1,2 +1,2 @@
-# A-B-testing-e-commerce-website-
+# AB_test
 A/B test for an e-commerce website (Udacity project)
